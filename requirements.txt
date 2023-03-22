@@ -1,3 +1,4 @@
 matplotlib
-gensim
-scikit-learn
+numpy
+pandas
+tensorflow-cpu
